@@ -1,0 +1,4 @@
+This is a sample Python Program
+This is a file example 
+We are learning file operations
+"Difference between readline and readlines is this"
