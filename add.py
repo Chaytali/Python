@@ -1,5 +1,6 @@
 def add(a,b,c=0,d=0,e=0):
     print(a+b+c+d+e)
+    print("Added the numbers")
 
 
 if(__name__=="__main__"):
